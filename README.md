@@ -1,3 +1,5 @@
+![Laravel](https://github.com/aunghtet-star/aunghtet-star/blob/main/laravel-featured.png)
+
 <h1 align="center">Hi 👋, I'm Aung Htet Thu</h1>
 <h3 align="center">A passionate web developer in myanmar</h3>
 
